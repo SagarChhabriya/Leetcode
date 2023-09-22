@@ -7,8 +7,4 @@ class TwoSum{
                     return new int[]{i,j};
    	 return new int[]{};
     }
-	public static void main(String[] args)
-	{
-	System.out.print(" Two Sum ");
-	}
 }
